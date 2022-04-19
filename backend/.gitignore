@@ -1,0 +1,9 @@
+/node_modules
+node_modules/
+
+# uploads/
+.scannerwork/
+sonar-project.properties
+client/build/
+.DS_Store
+.env
